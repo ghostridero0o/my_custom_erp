@@ -1,2 +1,0 @@
-Custom 1
-my_app
