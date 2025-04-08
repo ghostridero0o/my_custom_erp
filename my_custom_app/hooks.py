@@ -248,3 +248,11 @@ fixtures = [
 
 	{"dt": "DocType", "filters": [["module", "=","My custom app"]]}
 ]
+after_install = "my_custom_app.setup.install.after_install"
+after_migrate = "my_custom_app.setup.install.after_migrate"
+
+
+
+doctype_js = {
+    "Employee Attendance Tool" : "public/js/my.js"
+    }
